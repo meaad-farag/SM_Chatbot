@@ -1,6 +1,6 @@
 # SM_Chatbot
 
-<social media chatbot project>
+social media chatbot project
   
 Project For Software Project Management Course
 
