@@ -1,4 +1,4 @@
-# SM_chatbot
+# SM_Chatbot
 Project For Software Project Management Course
 
 Team Members :
