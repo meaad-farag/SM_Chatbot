@@ -58,8 +58,20 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
   
+  # Chatbot :
   
-  
+ - While there are many chatbots available, we decided to use Mobile Monkey as an Instagram chatbot
+   for its unique features.
+ - MobileMonkey is the first OmniChat tool on the web. It allows companies to interact in real time with 
+   their users. In fact, it is one of the Instagram chatbots that is quite famous on this platform.  
+ - With MobileMonkey, you can take advantage of features like the cross-platform chatbot generator.
+   The latter allows you to reuse chat marketing content regardless of the chat platform.
+ - You can also use a merged chat inbox that makes it easy to manage all conversations (inbound and outbound)
+   in a single space.
+ - Finally, you can use an automation and integration toolkit. This allows you to improve your
+   marketing communications.
+   
+ _________________________________________________________________________________
   
   
   
