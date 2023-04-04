@@ -46,7 +46,7 @@ ________________________________________________________________________________
   
  - Responsible for responding and interacting with customers.
   
- - The program should automatically send the send advertisements to customers.
+ - The program should automatically send the advertisements to customers.
 
  - The program should automatically send what has been added recently on accounts to the customers.
 
