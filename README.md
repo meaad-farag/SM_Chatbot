@@ -5,9 +5,9 @@
 _________________________________________________________________________________
 
 
-# Team Members :
+# Project Team Members :
   
-- Mohamed Amin Hejazi - 190706806 
+- Mohamed Amin Hejazi - 190706806 (Project Scrum Master)
 - MUSA ALABOUD - 190706822
 - ibrahim alroubh - 190706815
 - Abdulhamid Barakat - 190706817
